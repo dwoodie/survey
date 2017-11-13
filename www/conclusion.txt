@@ -1,0 +1,9 @@
+<div class="container mycontainer">
+  <h2>In Closing</h2>
+  <p>
+  Most people that responded to the survey are fairly new to the R language. Additionally, when splitting out the data by their responses -- they are very interested in a short monthly workshop at a low fee. Furthermore, the topics they're most interested in are using RStudio, improving their skills related to data visualization, and tuning neural networks.
+  </p>
+    <p>
+  For the more senior folks, to introduce new topics to R users they find it may be better to include a lightning talk with each meetup that focuses specifically on introducing a new beginner concept. Additionally, these folks share some interests in topics (i.e. data visualization and neural networks) but are also interested in some of the more pragmatic topics related to scaling analytics, such as with Spark and in working with databases. 
+  </p>
+</div>
